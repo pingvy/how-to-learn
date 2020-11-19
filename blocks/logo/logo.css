@@ -1,0 +1,14 @@
+﻿.logo {
+    width: 183px;
+    height: 32px;
+}
+
+.logo:hover {
+    opacity: 0.3;
+    transform: color 0.5s linear initial;
+}
+
+.logo:active {
+    opacity: 0.3;
+    transform: color 0.5s linear initial;
+}

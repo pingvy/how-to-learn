@@ -1,0 +1,16 @@
+.resources__logo {
+  list-style: none;
+  width: 275px;
+  height: 38px;
+  display: flex;
+}
+
+.resources__logo:hover {
+  opacity: 0.3;
+  transform: color 0.5s linear initial;
+}
+
+.resources__logo:active {
+  opacity: 0.3;
+  transform: color 0.5s linear initial;
+}
